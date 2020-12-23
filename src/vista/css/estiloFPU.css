@@ -1,0 +1,24 @@
+.text-field{
+	-fx-background-color: transparent;
+	-fx-border-color: #ff3337;
+	-fx-border-radius: 20px;
+	-fx-text-inner-color: #FFFFFF;
+}
+
+.combo-box{
+	-fx-background-color: #FFFFFF;
+	-fx-background-radius: 20px;
+	-fx-text-inner-color: #1f004c;
+}
+
+.combo-box .list-cell{
+	-fx-text-fill:   #1f004c;
+	-fx-font-size: 15px;
+}
+
+.button{
+	-fx-background-color: #ff3337;
+	-fx-background-radius: 20px;
+	-fx-text-fill:  #1f004c;
+}
+
